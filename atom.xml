@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://christianpoet.github.io</id>
+    <title>大小碗诗话</title>
+    <updated>2025-07-07T13:56:55.732Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://christianpoet.github.io"/>
+    <link rel="self" href="https://christianpoet.github.io/atom.xml"/>
+    <subtitle>一个写诗的基督徒，大河原诗歌原创、经典翻译、圣经随笔</subtitle>
+    <logo>https://christianpoet.github.io/images/avatar.png</logo>
+    <icon>https://christianpoet.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, 大小碗诗话</rights>
+    <entry>
+        <title type="html"><![CDATA[关于同性恋、双性恋以及变性人等话题]]></title>
+        <id>https://christianpoet.github.io/post/关于LGBT/</id>
+        <link href="https://christianpoet.github.io/post/关于LGBT/">
+        </link>
+        <updated>2024-06-11T13:37:56.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[诗歌的本质和诗歌的归宿]]></title>
+        <id>https://christianpoet.github.io/post/诗歌的本质/</id>
+        <link href="https://christianpoet.github.io/post/诗歌的本质/">
+        </link>
+        <updated>2024-05-29T06:46:46.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鲍勃·迪伦：在风中飘荡]]></title>
+        <id>https://christianpoet.github.io/post/bao-bo-di-lun-zai-feng-zhong-piao-dang/</id>
+        <link href="https://christianpoet.github.io/post/bao-bo-di-lun-zai-feng-zhong-piao-dang/">
+        </link>
+        <updated>2024-01-24T13:05:28.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当我们]]></title>
+        <id>https://christianpoet.github.io/post/当我们/</id>
+        <link href="https://christianpoet.github.io/post/当我们/">
+        </link>
+        <updated>2024-01-16T07:00:09.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亲爱的人，你看见彩虹了吗？]]></title>
+        <id>https://christianpoet.github.io/post/你看见彩虹了吗/</id>
+        <link href="https://christianpoet.github.io/post/你看见彩虹了吗/">
+        </link>
+        <updated>2023-12-21T02:24:05.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[和受恩-愿你生命的洪涛，使我成为一条河]]></title>
+        <id>https://christianpoet.github.io/post/和受恩-愿你生命的洪涛，使我成为一条河/</id>
+        <link href="https://christianpoet.github.io/post/和受恩-愿你生命的洪涛，使我成为一条河/">
+        </link>
+        <updated>2023-11-25T09:02:37.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我只是小小的麻雀，既不耕种也不采收]]></title>
+        <id>https://christianpoet.github.io/post/我只是小小的麻雀/</id>
+        <link href="https://christianpoet.github.io/post/我只是小小的麻雀/">
+        </link>
+        <updated>2023-11-23T07:33:28.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人生多有雨雪浓雾，因信仍可欢歌]]></title>
+        <id>https://christianpoet.github.io/post/人生多有雨雪浓雾/</id>
+        <link href="https://christianpoet.github.io/post/人生多有雨雪浓雾/">
+        </link>
+        <updated>2023-10-14T12:49:04.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[那时，每一天能听见落雪的声音]]></title>
+        <id>https://christianpoet.github.io/post/那时，每一天能听见落雪的声音/</id>
+        <link href="https://christianpoet.github.io/post/那时，每一天能听见落雪的声音/">
+        </link>
+        <updated>2023-10-09T14:38:04.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这位老人，在东京郊外的卡车上静静读经]]></title>
+        <id>https://christianpoet.github.io/post/他在东京郊外的卡车上静静读经/</id>
+        <link href="https://christianpoet.github.io/post/他在东京郊外的卡车上静静读经/">
+        </link>
+        <updated>2023-09-22T13:34:55.000Z</updated>
+    </entry>
+</feed>
